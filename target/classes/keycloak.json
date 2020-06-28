@@ -1,0 +1,8 @@
+{
+  "realm": "alfresco-dbp",
+  "auth-server-url" : "http://idoc.pttor.com/keycloak/auth",
+  "resource" : "alfresco",
+  "credentials": {
+    "secret": "secret"
+  }
+}
